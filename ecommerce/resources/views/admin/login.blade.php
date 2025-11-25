@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" href="{{ asset('favicon.png') }}" type="image/x-icon">
     <title>Admin Login — Buggxit Couture</title>
     @vite('resources/css/app.css')
 </head>
