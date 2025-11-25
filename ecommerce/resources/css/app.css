@@ -10,9 +10,15 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+@font-face {
+    font-family: 'WalkwayRounded';
+    src: url('/public/fonts/walkway/Walkway\ rounded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
-    padding: 0;
-    margin: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: 'WalkwayRounded', sans-serif;
 }
 
